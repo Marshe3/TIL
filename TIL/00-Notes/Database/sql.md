@@ -283,4 +283,4 @@ S로 끝나고 총 4글자인 모든 데이터 검색
 ### TCL(Transaction Control Language)
 - 트랜젝션 제어어
 - 트랜잭션을 제어하는 언어
-- COMMIT, ROLLBACK, SAVEPOINT
+- COMMIT, ROLLBACK, SAVEPOINT 
