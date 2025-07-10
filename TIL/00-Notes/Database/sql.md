@@ -254,33 +254,3 @@ S로 끝나고 총 4글자인 모든 데이터 검색
 <br/>
 <br/>
 <br/>
-
-## SQL 문장의 종류
-
-### DDL(Data Definition Language)
-- 데이터 정의어
-- 테이블 같은 데이터 구조를 정의하는 언어
-- 특정 구조를 생성, 변경, 삭제, 이름을 바꾸는 명령어들이 있음
-- CREATE, ALTER, DROP, TRUNCATE, RENAME
-
-<br/>
-
-### DML(Data Manipulation Language)
-- 데이터 조작어
-- DB에 저장된 자료들을 입력, 수정, 삭제, 조회하는 언어
-- SELECT, INSERT, UPDATE, DELETE
-
-<br/>
-
-### DCL(Data Control Language)
-- 데이터 제어어
-- DB관리자가 데이터 보안, 무결성 유지, 병행 제어, 회복을 위해 사용하는 언어
-- GRANT, REVOKE, ROLE, COMMIT, ROLLBACK, SAVEPOINT
-  - COMMIT, ROLLBACK, SAVEPOINT는 TCL로 구분하기도 함
-
-<br/>
-
-### TCL(Transaction Control Language)
-- 트랜젝션 제어어
-- 트랜잭션을 제어하는 언어
-- COMMIT, ROLLBACK, SAVEPOINT 
